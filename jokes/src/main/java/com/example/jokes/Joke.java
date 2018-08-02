@@ -7,7 +7,6 @@ public class Joke {
 
     public static String jokes() {
 
-
         return "CAPS LOCK – Preventing Login Since 1980. ";
     }
 
