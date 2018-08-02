@@ -6,6 +6,7 @@ public class MyBean {
     private String myData;
 
     public String getData() {
+
         return myData;
     }
 
